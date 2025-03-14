@@ -12,7 +12,21 @@ This **Tic-Tac-Toe** game is built using **Python** in **VS Code**. It allows tw
 
 ## Requirements 🛠  
 - **Python** (Developed using Python)  
-- **VS Code** (Used for writing and running the code)  
+- **VS Code** (Used for writing and running the code)
+
+- ## How to Run 🚀
+-  Clone this repository:
+      git clone <your-repo-link>
+
+   
+Navigate to the project folder:
+    cd tic-tac-toe
+
+Run the Python script:
+    python tic_tac_toe.py
+
+
+ 
 
 
 
